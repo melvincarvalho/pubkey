@@ -1,5 +1,5 @@
 {
-  "name": "publickey",
+  "name": "pubkey",
   "version": "0.0.1",
   "description": "get public keys",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/melvincarvalho/publickey.git"
+    "url": "git+https://github.com/melvincarvalho/pubkey.git"
   },
   "keywords": [
-    "publickey"
+    "pubkey"
   ],
   "author": "Melvin Carvalho",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/melvincarvalho/publickey/issues"
+    "url": "https://github.com/melvincarvalho/pubkey/issues"
   },
-  "homepage": "https://github.com/melvincarvalho/publickey#readme"
+  "homepage": "https://github.com/melvincarvalho/pubkey#readme"
 }
